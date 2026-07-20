@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhuchhanda2005/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Madhuchhanda2005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Madhuchhanda2005/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Madhuchhanda2005/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhuchhanda2005/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Madhuchhanda2005/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Madhuchhanda2005/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhuchhanda2005/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -39,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Madhuchhanda2005/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhuchhanda2005/DSA/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Madhuchhanda2005/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
