@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Madhuchhanda2005/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Madhuchhanda2005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Madhuchhanda2005/DSA/tree/master/0268-missing-number) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Madhuchhanda2005/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
