@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Madhuchhanda2005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Madhuchhanda2005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Madhuchhanda2005/DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Madhuchhanda2005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Madhuchhanda2005/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Madhuchhanda2005/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Madhuchhanda2005/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
